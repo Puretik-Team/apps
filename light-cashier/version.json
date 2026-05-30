@@ -1,4 +1,8 @@
 {
-  "version": "1.0.0",
-  "build": "1"
+  "ios_version": "1.0.0",
+  "android_version": "1.0.0",
+  "android_build": "1",
+  "ios_build": "1",
+  "ios_url": "https://apps.apple.com/app/id678901234567890",
+  "android_url": "https://play.google.com/store/apps/details?id=com.puretik.lightcashier"
 }
